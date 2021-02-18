@@ -1,4 +1,4 @@
-DOCKER_BASE_NAME := ranger6/alpine-extra
+DOCKER_BASE_NAME := ranger6/alpine-extras
 DOCKER_IMAGE_NAME := $(DOCKER_BASE_NAME):3.13
 
 build: Dockerfile
